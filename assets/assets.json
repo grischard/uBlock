@@ -523,6 +523,15 @@
 		"contentURL": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt",
 		"supportURL": "https://notabug.org/latvian-list/adblock-latvian"
 	},
+	"LUX-0": {
+		"content": "filters",
+		"group": "regions",
+		"off": true,
+		"title": "LUX: Luxembourg List",
+		"lang": "lb fr de",
+		"contentURL": "https://raw.githubusercontent.com/grischard/lux-blocklist/main/Luxembourg-blocklist.txt",
+		"supportURL": "https://github.com/grischard/lux-blocklist"
+	},
 	"NLD-0": {
 		"content": "filters",
 		"group": "regions",
